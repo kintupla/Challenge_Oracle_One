@@ -1,4 +1,4 @@
-# Challenge Oracle ONE Semana 01 e 02: Construindo aplicação de um decodificador de texto com Javascript
+# Challenge Oracle ONE - Semana 01 e 02: Construindo aplicação de um decodificador de texto com Javascript
 
 # Sobre
   É uma aplicação que criptografa textos, você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
