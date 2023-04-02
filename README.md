@@ -28,7 +28,7 @@ Exemplo:
 Para copiar o texto da saída basta clicar no botão copiar. O botão possui a mesma funcionalidade do "Ctrl + C" ou da opção "copiar" do menu dos aplicativos.
 
 ### Veja o projeto em ação
-[Decodificador de texto](https://matheus-honorato.github.io/decodificadorDeTexto/).
+[Decodificador de texto](https://matheus-honorato.github.io/decodificador-de-texto/).
 
 
 # Tecnologias utilizadas
