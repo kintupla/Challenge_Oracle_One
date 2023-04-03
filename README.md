@@ -1,7 +1,7 @@
 # Challenge Oracle ONE - Semana 01 e 02: Construindo aplicação de um decodificador de texto com Javascript
 
 # Sobre
-  É uma aplicação que criptografa textos, você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
+  É uma aplicação que criptografa textos, é possível escrever mensagens secretas e desvendar o segredo da criptografia utilizada.
 ### O critério de criptografia
 As "chaves" de criptografia utilizadas são: 
 > A letra "e" é convertida para "enter"<br>
